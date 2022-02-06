@@ -1,0 +1,4 @@
+[submodule "nghttp2"]
+	path = nghttp2
+	url = https://github.com/nghttp2/nghttp2.git
+
